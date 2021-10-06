@@ -1,4 +1,5 @@
 # firstbinder
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ya54/firstbinder/HEAD)
-[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
+
+[link](url){:target="_blank"}
