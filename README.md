@@ -2,4 +2,4 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ya54/firstbinder/HEAD)
 
-[link](url){:target="_blank"}
+<a href="www.squarespace.com" target="_blank">Squarespace</a>
